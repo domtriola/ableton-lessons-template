@@ -1,0 +1,16 @@
+$Page Page Name
+$TargetName Page Name
+SeaBass.jpeg
+
+*Page Name*
+
+$Link A link <https://upload.wikimedia.org/wikipedia/commons/b/b8/Giant_Sea_Bass%2C_CAS.jpg>.
+
+$Link More info <GotoPage:Another Page>
+
+$Page Another Page
+$TargetName Another Page
+
+*Another Page*
+
+More info...
